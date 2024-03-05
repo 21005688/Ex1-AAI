@@ -1,7 +1,7 @@
- Name :Deepika J
- Register No :212221230016
+# Name :Deepika J
+# Register No :212221230016
 <H3> Experiment 1</H3>
-<H3>DATE:</H3>
+
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 ## Aim :
     To create a bayesian Network for the given dataset in Python
